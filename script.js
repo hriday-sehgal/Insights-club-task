@@ -9,7 +9,7 @@ function handleFormSubmit(event) {
     // TODO: Store the email and password in the database (MongoDB, MySQL, Firebase, etc.)
   
     // Redirect to the home page
-    window.location.href = 'home.html';
+    window.location.href = 'home_page_web.html';
   }
   
   // Function to toggle dark mode
