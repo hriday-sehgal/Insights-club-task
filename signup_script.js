@@ -14,7 +14,7 @@ function handleFormSubmit(event) {
     // TODO: Implement email verification functionality
   
     // Redirect to the login page after successful signup
-    window.location.href = 'login.html';
+    window.location.href = 'email_page_web.html';
   }
   
   // Attach event listener
