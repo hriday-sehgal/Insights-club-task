@@ -5,10 +5,9 @@ function handleFormSubmit(event) {
     // Get the entered OTP
     const otp = document.getElementById('otp').value;
   
-    // TODO: Implement OTP verification logic
   
     // Redirect to the home page after successful verification
-    window.location.href = 'home.html';
+    window.location.href = 'home_page_web.html';
   }
   
   // Attach event listener
