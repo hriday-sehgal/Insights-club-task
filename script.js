@@ -6,7 +6,7 @@ function handleFormSubmit(event) {
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
   
-    // TODO: Store the email and password in the database (MongoDB, MySQL, Firebase, etc.)
+
   
     // Redirect to the home page
     window.location.href = 'home_page_web.html';
