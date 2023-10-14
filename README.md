@@ -1,5 +1,7 @@
 # Insights-club-web-task-round
 
+This repo contains Tasks for Insights Club (VIT Bhopal) Technical Round
+
 Github repo - https://github.com/hriday-sehgal/Insights-club-task
 
 Login page - https://hriday-sehgal.github.io/Insights-club-task/login_page_web.html
